@@ -36,27 +36,21 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Username: labuser
 - Password: VirtualMachine!
 - Check box "I confirm I have an elligible Windows 10/11 license with multi-tenant hosting rights."
+- Wait for New resource group & v-net to deploy
+- Create Vitual Machine
+- Resource Group: Windows-_group (use resource group created when Windows-VM was created)
+- Virtual Machine Name: Ubuntu-VM
+- Region: West US 3
+- Image: Ubuntu Server 20.04 LTS
+- Size: 2 vcpus, 16 GiB memory
+- Authentication type: Password
+- Username: labuser
+- Password: VirtualMachine!
+- Next
+- Next
+- Virtual Network: Windows-VM-vnet (use vnet created when Windows-VM was created)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
