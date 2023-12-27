@@ -5,11 +5,6 @@
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,6 +25,17 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Observe Protocols within Wireshark
 
 <h2>Actions and Observations</h2>
+
+<h3>Create Virtual Machines</h3>
+
+- Create Virtual Machine
+- Virtual Machine Name: Windows-VM
+- Region: West US 3
+- Image: Windows 10 Pro
+- Size: 2 vcpus, 16 GiB memory
+- Username: labuser
+- Password: VirtualMachine!
+- Check box "I confirm I have an elligible Windows 10/11 license with multi-tenant hosting rights."
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
