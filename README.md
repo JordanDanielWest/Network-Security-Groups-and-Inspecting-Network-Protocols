@@ -67,7 +67,19 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/76cd6191-30ad-4baa-b6df-78008cea4263)
 
 - Ping Ubuntu-VM private IP Address from Windows-VM Command Line (10.0.0.5)
+- Observe Ping Requests in Wireshark
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/972f409f-ab68-45a5-aa1c-e8d13a74c567)
+
+- Open Command Line and ping www.google.com
+- Observe results in wireshark
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/1aa4347f-c797-4438-a788-6b318c051335)
+
+- Initiate perpetual ping from Windows-VM to Ubuntu-VM (ping -t 10.0.0.5)
+- Open Network Security Group for Ubuntu-VM and disable inbound (ICMP) traffic
 - 
+
 
 
 <p>
