@@ -107,9 +107,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - ssh labuser@10.0.0.5 (ssh "username"@"private ip address")
 - yes
 - Password: VirtualMachine!
+- Input Linux commands (pwd, uname, etc) and observe Wireshark SSH traffic
+- exit
+
+<h3>Observe DHCP Traffic</h3>
+
+- Filter for DHCP
 - 
-
-
 
 
 <p>
