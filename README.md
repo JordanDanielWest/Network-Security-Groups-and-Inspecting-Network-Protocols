@@ -90,6 +90,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/32e6da60-c318-4971-ac6e-3ef889c20e09)
 
+- Observe Changes in Wireshark
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/9b94bf85-7cdb-432e-beb3-6fcf17e014cb)
+
+
 
 
 
