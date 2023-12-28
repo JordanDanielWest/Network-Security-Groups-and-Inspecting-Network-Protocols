@@ -62,6 +62,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/c0663802-7e1a-4cb6-bc9c-ffbc559fead4)
 
+- Filter traffic by "icmp"
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/76cd6191-30ad-4baa-b6df-78008cea4263)
+
+- Log into Ubuntu-VM via Remote Desktop
+- 
+
 
 <p>
 
