@@ -78,7 +78,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Initiate perpetual ping from Windows-VM to Ubuntu-VM (ping -t 10.0.0.5)
 - Open Network Security Group for Ubuntu-VM and disable inbound (ICMP) traffic
-- 
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/ae6de9a0-3dbb-4e9f-a07f-7a909260d79e)
+
+- Select "Create Port Rule"
+- Inbound rule
+- Protocol: ICMP
+- Action: Deny
+- Priority: 200
+- Add
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/32e6da60-c318-4971-ac6e-3ef889c20e09)
+
 
 
 
