@@ -94,6 +94,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/9b94bf85-7cdb-432e-beb3-6fcf17e014cb)
 
+- Re-enable ICMP traffic In Ubuntu Network Security Group (delete the rule)
+- Observe changes
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/1a5b592b-fb68-4e5b-ab79-70d1a5130c20)
+
+
 
 
 
