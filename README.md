@@ -113,7 +113,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h3>Observe DHCP Traffic</h3>
 
 - Filter for DHCP
-- 
+- Command Line ipconfig /renew
 
 
 <p>
