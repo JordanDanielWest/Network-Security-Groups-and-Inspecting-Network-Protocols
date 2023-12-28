@@ -49,6 +49,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Next
 - Next
 - Virtual Network: Windows-VM-vnet (use vnet created when Windows-VM was created)
+- Review + Create
+- Create
+
+<h3>Observe ICMP Traffic</h3>
+
+- Connect to Windows-VM with Remote Desktop
+- Download & Install Wireshark https://www.wireshark.org/
+- Open Wireshark
+- 
 
 <p>
 
