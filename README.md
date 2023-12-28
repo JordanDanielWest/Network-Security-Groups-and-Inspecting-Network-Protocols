@@ -57,7 +57,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Connect to Windows-VM with Remote Desktop
 - Download & Install Wireshark https://www.wireshark.org/
 - Open Wireshark
-- 
+- Select Ethernet
+- Select Blue Fin to start receiving packets
+
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/c0663802-7e1a-4cb6-bc9c-ffbc559fead4)
+
 
 <p>
 
