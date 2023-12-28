@@ -99,7 +99,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/1a5b592b-fb68-4e5b-ab79-70d1a5130c20)
 
+<h3>Observe SSH Traffic</h3>
 
+- Filter for SSH in Wireshark
+- In Windows-VM Powershell into Ubuntu-VM
+- Open Powershell
+- ssh labuser@10.0.0.5 (ssh "username"@"private ip address")
+- yes
+- Password: VirtualMachine!
+- 
 
 
 
