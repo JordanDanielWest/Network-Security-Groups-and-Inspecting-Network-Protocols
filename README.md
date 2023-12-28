@@ -115,6 +115,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Filter for DHCP
 - Command Line ipconfig /renew
 
+![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/75c4b8a2-dbe9-43ce-a4db-7644e0866694)
+
+
 
 <p>
 
