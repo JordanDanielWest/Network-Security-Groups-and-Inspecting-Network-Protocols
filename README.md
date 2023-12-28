@@ -66,7 +66,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/76cd6191-30ad-4baa-b6df-78008cea4263)
 
-- Log into Ubuntu-VM via Remote Desktop
+- Ping Ubuntu-VM private IP Address from Windows-VM Command Line (10.0.0.5)
 - 
 
 
