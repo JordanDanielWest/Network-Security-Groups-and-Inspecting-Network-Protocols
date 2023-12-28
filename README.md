@@ -117,6 +117,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols/assets/96628562/75c4b8a2-dbe9-43ce-a4db-7644e0866694)
 
+<h3>Observe DNS Traffic</h3>
+
+- Filter by DNS
+- Command Line nslookup www.google.com
+- Observe traffic in Wireshark
+
+<h3>Observe RDP Traffic</h3>
 
 
 <p>
